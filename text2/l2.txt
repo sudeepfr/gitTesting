@@ -6,8 +6,7 @@ changes done during main  branch
 change done during bug-fix
 2 change done during bug-fix
 3 change done during bug-fix
-<<<<<<< Updated upstream
 
-=======
+
 4 bash concept  main
->>>>>>> Stashed changes
+
